@@ -1,0 +1,15 @@
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\bin\Debug\net8.0\Student_Attendance_System.exe
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\bin\Debug\net8.0\Student_Attendance_System.deps.json
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\bin\Debug\net8.0\Student_Attendance_System.runtimeconfig.json
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\bin\Debug\net8.0\Student_Attendance_System.dll
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\bin\Debug\net8.0\Student_Attendance_System.pdb
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.AssemblyInfoInputs.cache
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.AssemblyInfo.cs
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.csproj.CoreCompileInputs.cache
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.sourcelink.json
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.dll
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\refint\Student_Attendance_System.dll
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.pdb
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\Student_Attendance_System.genruntimeconfig.cache
+C:\Users\acera\OneDrive\Desktop\Github_Projects\Student_Attendance_System\obj\Debug\net8.0\ref\Student_Attendance_System.dll
